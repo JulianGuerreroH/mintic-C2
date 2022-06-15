@@ -24,6 +24,7 @@ public class Clases_ciclo_2 {
         int suma = 3 + edad;
         System.out.println("El resultado de la suma es: "+suma);
         //cambio 1
+        // cambio 2 , para ver como ejecutar el nuevo push
 
     
     }
