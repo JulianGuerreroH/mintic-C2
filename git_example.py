@@ -8,3 +8,7 @@ print("Segundo cambio")
 #comentario 1
 #comentario 2
 #comentario 3.1
+
+# git add .
+# git commit -m 'escribir el mensaje que permita saber que se hizo con este cambio'
+#git push 
