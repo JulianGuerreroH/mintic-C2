@@ -2,7 +2,7 @@ package com.mycompany.reto1;
 import javax.swing.JOptionPane;
 
 /*
- * @author TOSHIBA
+ * @author JULIAN DAVID GUERRERO HERNANDEZ
  */
 public class clsCalculadora {
 

@@ -1,5 +1,8 @@
 package com.mycompany.reto1;
 
+/*
+ * @author JULIAN DAVID GUERRERO HERNANDEZ
+ */
 
 public class Reto1 {
     
