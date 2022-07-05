@@ -25,6 +25,19 @@ public class Clases_ciclo_2 {
         System.out.println("El resultado de la suma es: "+suma);
         //cambio 1
         // cambio 2 , para ver como ejecutar el nuevo push
+        //sout + tab  = System.out.println("");
+        
+
+        // variabes numericas enteras: byte, short, int, long
+        //variables numericas reales: float, double
+        
+        byte edad = 128; //el tipo byte puede ser un entero, pero en este aspecto al ser una edad es mejor utilizar el tipo de dato que reserva menos espacio ne la memoria 
+
+        //char, string 
+        char sexo = 'f'; //va en comillas simples 
+
+    
+
 
     
     }
