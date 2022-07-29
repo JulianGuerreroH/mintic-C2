@@ -1,6 +1,7 @@
 #git clone-b main https://github.com/JulianGuerreroH/mintic-C2.git
 #es la URL que me da la pagina en github
 #main es el nombre de la rama 
+#https://github.com/JulianGuerreroH/mintic-C2.git
 
 print("Hola mundo")
 print("Primer cambio")
